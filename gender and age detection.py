@@ -38,6 +38,9 @@ pip install opendatasets
 
 import opendatasets as od
 od.download('https://www.kaggle.com/datasets/jangedoo/utkface-new')
+#        it will ask for kaggle credentials 
+# username = "divyaxi"
+# key = "..................."
 
 
 # In[ ]:
